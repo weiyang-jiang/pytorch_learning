@@ -1,3 +1,10 @@
 .idea
 .ipynb_checkpoints
 __pycache__
+pytorch基础神经网络/dataset/
+pytroch卷积神经网络/data/
+pytroch卷积神经网络/example_data/
+pytroch卷积神经网络/mnist_data/
+pytroch卷积神经网络/PyTorch-distracted-driver-P2-master/distracted_driver_detection/test
+pytroch卷积神经网络/PyTorch-distracted-driver-P2-master/distracted_driver_detection/train
+pytroch卷积神经网络/PyTorch-distracted-driver-P2-master/distracted_driver_detection/__MACOSX
